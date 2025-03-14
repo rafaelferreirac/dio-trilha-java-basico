@@ -4,5 +4,6 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ],
-    "WhiteSource Advise.Diff.BaseBranch": "main"
+    "WhiteSource Advise.Diff.BaseBranch": "main",
+    "java.debug.settings.onBuildFailureProceed": true
 }
